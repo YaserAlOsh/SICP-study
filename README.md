@@ -10,7 +10,7 @@ Book link: https://mitpress.mit.edu/sites/default/files/sicp/index.html
 ## What programming language does SICP uses?
 Mit-Scheme. A variation on Scheme, a programming language that is very similar to Lisp.  
 Racket is another variation on Scheme that is more modern and better.  
-You can use Dr.Racket to SICP scheme (mit scheme): use #lang sicp.
+You can use Dr.Racket to interpret SICP scheme (mit scheme): use #lang sicp.
 
 ## Some stuff I built after learning Scheme and Racket:
 ### Radix Conversion Program:
