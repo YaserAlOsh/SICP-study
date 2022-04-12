@@ -23,9 +23,8 @@ Interestingly, you can mix both languages.
 ### Capacitance Calculator
 Simple calculator that calculates the capacitance of any complex circuit, containing parallel and/or series sub circuits.
 
-
 ![image](https://user-images.githubusercontent.com/25433731/162962218-72aa0991-59bc-4e95-b8c6-4f6a472d84ee.png)  
-Can also solve for the missing capacitance, given the total capacitance, in simple circuits only.
+#### Can also solve for the missing capacitance, given the total capacitance, in simple circuits only.
 ![image](https://user-images.githubusercontent.com/25433731/162962525-a6542857-a79b-48b2-abfd-5e7194570990.png)  
   
 Only misses a UI!
