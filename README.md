@@ -7,6 +7,10 @@ I started studying SICP book to build my understanding of Computer Science and P
 It improved my programming skills and widened my perspective in more ways than I could have imagined.  
 It was recommended to me on https://teachyourselfcs.com website, go check it out!      
 Book link: https://mitpress.mit.edu/sites/default/files/sicp/index.html
+## What programming language does SICP uses?
+Mit-Scheme. A variation on Scheme, a programming language that is very similar to Lisp.  
+Racket is another variation on Scheme that is more modern and better.  
+You can use Dr.Racket to SICP scheme (mit scheme): use #lang sicp.
 
 ## Some stuff I built after learning Scheme and Racket:
 ### Radix Conversion Program:
