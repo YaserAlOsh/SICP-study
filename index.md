@@ -1,3 +1,6 @@
+[//]: # (Author: Yaser Al-Osh)  
+[//]: # (google-site-verification: 0FTmQnSB6Ux94Zxj9gUWSgmQKkSwL6m66RIIXmp3Frg)  
+
 # SICP-study
 Here I share my solutions to SICP exercises.
 I also follow 61A Berkeley course and some lab exercises are in the files.
